@@ -8,8 +8,8 @@ actors:
     name: YtYmmt
     url: https://twitter.com/YtYmmt
 author: yu-kgr
-description: ミナカワ（@yu_kgr）とヤマモト（@yt-ymmt）のエンジニア2名が、その時々に思った話題についてIMOをアウトプットするPodcastです。
-description_long: 石川在住のミナカワ（@yu_kgr）と東京在住のヤマモト（@yt-ymmt）が、お互いが各々思っていることをアウトプットしつつ壁打ちするpodcastです。その時々で気になった話題について個人的な考えなど語り合います。OIMO.fmの「OIMO」は「Output In My Opinion」の略で「この話題について、俺が思うに…」な事をどんどんアウトプットしようぜ。という意図でつけられました。
+description: ミナカワ（@yu_kgr）とヤマモト（@YtYmmt）のエンジニア2名が、その時々に思った話題についてIMOをアウトプットするPodcastです。
+description_long: 石川在住のミナカワ（@yu_kgr）と東京在住のヤマモト（@YtYmmt）が、お互いが各々思っていることをアウトプットしつつ壁打ちするpodcastです。その時々で気になった話題について個人的な考えなど語り合います。OIMO.fmの「OIMO」は「Output In My Opinion」の略で「この話題について、俺が思うに…」な事をどんどんアウトプットしようぜ。という意図でつけられました。
 email: kgr.ze21ro@gmail.com
 exclude:
   - docker
